@@ -49,7 +49,7 @@ export default function SearchForm() {
           ></input>
           <div className=''>
             <div>
-              <p className='text-lg mt-6 font-semibold'>Minimum Price $</p>
+              <p className='text-lg mt-5 font-semibold'>Minimum Price $</p>
               <div className=' '>
                 <input
                   type='number'
